@@ -21,7 +21,7 @@ This project implements evaluation and finetuning experiments on OpenVLA in the 
 - Long-horizon rollout drift
 
 ## Demo
-![demo](assets/demo.gif)
+![demo](assets/vedio/2026_05_07-20_48_10--episode=9--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4)
 
 ## Setup
 ```bash
